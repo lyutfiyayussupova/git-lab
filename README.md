@@ -1,10 +1,5 @@
 # Git Laboratory
-<<<<<<< HEAD
-=======
-This is a feature branch.
-This is a feature branch.
->>>>>>> feature-branch
-This will cause a conflict.
-This will also cause a conflict.
-Staged change
-Change from another machine
+
+This repository is part of Laboratory 10 for CS265: Advanced Programming Tools and Techniques.
+
+This is the main branch.
